@@ -42,3 +42,4 @@ venv/
 
 # Spring Boot settings (depending on your use case)
 application.properties  # 무시가 필요 없으면 삭제
+"exec/DUMP ����.zip" 
