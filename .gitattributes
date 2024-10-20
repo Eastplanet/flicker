@@ -1,1 +1,2 @@
 *.zip filter=lfs diff=lfs merge=lfs -text
+exec/DUMP[[:space:]]파일.zip filter=lfs diff=lfs merge=lfs -text
