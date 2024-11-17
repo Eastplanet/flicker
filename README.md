@@ -75,7 +75,7 @@
 
 ## ⭐ 팀원 소개
 
-### **_Meet our highly skilled team members!_** | <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" alt="Notion Logo" width="20"/> [팀 노션](https://snowy-lilac-f3b.notion.site/6-5193ecebfd8643ba9d99d29e3bea2482?pvs=4)
+### **_Meet our highly skilled team members!_** | <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" alt="Notion Logo" width="20"/> 
 
 |                                     |                                                                                                                                                                   |                                      |                                                                                                                                                                            |
 | ----------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
