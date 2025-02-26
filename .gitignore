@@ -41,5 +41,8 @@ out/
 venv/
 
 # Spring Boot settings (depending on your use case)
-application.properties  # ë¬´ì‹œê°€ í•„ìš” ì—†ìœ¼ë©´ ì‚­ì œ
+application.properties  # ë¬´ì‹œê°€ ?„ìš” ?†ìœ¼ë©??? œ
 "exec/DUMP ÆÄÀÏ.zip" 
+application-local.properties
+.gradle
+/build/
