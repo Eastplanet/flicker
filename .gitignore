@@ -44,5 +44,6 @@ venv/
 application.properties  # ë¬´ì‹œê°€ ?„ìš” ?†ìœ¼ë©??? œ
 "exec/DUMP ÆÄÀÏ.zip" 
 application-local.properties
-.gradle
-/build/
+**/.gradle
+**/build/
+!src/**/build/
