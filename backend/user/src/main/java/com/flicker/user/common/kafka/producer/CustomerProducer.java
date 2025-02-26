@@ -16,10 +16,10 @@ import org.springframework.stereotype.Service;
 
 import java.util.Properties;
 
-@Service
+
 @RequiredArgsConstructor
 @Slf4j
-public class CustomerProducer {
+public class CustomerProducer implements CustomerProducerInterface{
 
     private KafkaProducer<String, SentimentReview> sentimentProducer;
     private KafkaProducer<String, WordCloudReview> wordCloudProducer;
