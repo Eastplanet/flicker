@@ -5,6 +5,7 @@ import com.flicker.user.common.kafka.dto.MovieInfo;
 import com.flicker.user.common.kafka.dto.SentimentReview;
 import com.flicker.user.common.kafka.dto.WordCloudReview;
 import com.flicker.user.common.kafka.producer.CustomerProducer;
+import com.flicker.user.common.kafka.producer.CustomerProducerInterface;
 import com.flicker.user.common.status.StatusCode;
 import com.flicker.user.review.domain.ReviewConverter;
 import com.flicker.user.review.domain.entity.Review;
@@ -30,7 +31,7 @@ public class ReviewService {
     private final UserService userService;
     private final ReviewRepository reviewRepository;
     private final ReviewConverter reviewConverter;
-    private final CustomerProducer kafkaProducer;
+    private final CustomerProducerInterface kafkaProducer;
 
     @Transactional
     public boolean registerReview(RegisterReviewReqDto dto){
